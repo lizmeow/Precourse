@@ -4,7 +4,7 @@ This repo contains the instruction material and assignments for Lambda School's 
 To sign up for the program or to learn more about Lambda School's intensive Computer Science program, visit https://www.lambdaschool.com
 
 To receive help with the homework you can join our Slack team.  After registering for the mini-bootcamp on our website you will be sent an invitation to join Slack.  We have TAs available to answer questions about the homework.
-
+This is a comment extension.
 
 ### Live Broadcast Recordings
 
